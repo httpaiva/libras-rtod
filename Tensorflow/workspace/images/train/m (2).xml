@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>m (2).jpeg</filename>
+	<path>/home/gabriel.paiva/Documentos/code/RealTimeObjectDetection/Tensorflow/workspace/images/collectedImages/m (2).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>698</xmin>
+			<ymin>594</ymin>
+			<xmax>897</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+</annotation>

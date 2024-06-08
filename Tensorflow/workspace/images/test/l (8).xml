@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>l (8).jpeg</filename>
+	<path>/home/gabriel.paiva/Documentos/code/RealTimeObjectDetection/Tensorflow/workspace/images/collectedImages/l (8).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>l</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>623</xmin>
+			<ymin>314</ymin>
+			<xmax>1030</xmax>
+			<ymax>740</ymax>
+		</bndbox>
+	</object>
+</annotation>

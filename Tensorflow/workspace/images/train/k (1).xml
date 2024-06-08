@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>k (1).jpeg</filename>
+	<path>/home/gabriel.paiva/Documentos/code/RealTimeObjectDetection/Tensorflow/workspace/images/collectedImages/k (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>k</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1112</xmin>
+			<ymin>293</ymin>
+			<xmax>1555</xmax>
+			<ymax>876</ymax>
+		</bndbox>
+	</object>
+</annotation>
