@@ -6,6 +6,10 @@ To run the jupyter notebok use:
 python3 -m notebook
 ```
 
+# Tutorial
+
+https://www.youtube.com/watch?v=pDXdlXlaCco
+
 # Passo a passo:
 
 1. Tirar as fotos que servirão para treinar a IA.
