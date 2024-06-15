@@ -1,9 +1,22 @@
 ## Real Time Object Detection for Libras
 
+To activate the virtual environment:
+
+```
+source tf2_api_env/bin/activate
+cd ~/Downloads/Tensorflow
+```
+
 To run the jupyter notebok use:
 
 ```
 python3 -m notebook
+```
+
+or
+
+```
+jupyter notebook
 ```
 
 To train, use:
